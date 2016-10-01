@@ -1,5 +1,8 @@
 anuchit#1
 north msg
+north msgs
+golf
+nong*1
 golf
 nong*1
 git-for-Q1
@@ -18,4 +21,8 @@ anuchit#5
 nong*5
 anuchit#6
 nong*6
+anuchitnong git for Q
+1111
+2222
+333
 anuchitnong git for Q
