@@ -9,3 +9,4 @@ nong*4
 anuchit#5
 nong*5
 anuchit#6
+nong*6
